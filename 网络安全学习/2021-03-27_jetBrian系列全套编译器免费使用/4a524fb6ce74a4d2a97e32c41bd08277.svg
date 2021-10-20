@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="43px" viewBox="0 0 105 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="赛博朋克" transform="translate(-128.000000, -210.000000)">
+            <g id="编组-3" transform="translate(128.000000, 210.922196)">
+                <path d="M19.1653728,1.577804 L21.7903728,4.24829285 L55,4.24829285 L55,36.577804 L21.7731159,36.577804 L19.1481159,39.577804 L5.23307764,39.577804 L2.5,36.9501283 L2.5,24.762766 L5.65853889,21.077804 L2.5,17.392842 L2.5,4.36353722 L5.20899672,1.577804 L19.1653728,1.577804 Z" id="矩形" stroke="#000000" fill="#CFFFAB"></path>
+                <path d="M70.1653728,1.577804 L72.7903728,4.24829285 L102,4.24829285 L102,36.577804 L72.7731159,36.577804 L70.1481159,39.577804 L56.2330776,39.577804 L53.5,36.9501283 L53.5,24.762766 L56.6585389,21.077804 L53.5,17.392842 L53.5,4.36353722 L56.2089967,1.577804 L70.1653728,1.577804 Z" id="矩形备份-10" stroke="#000000" fill="#CFFFAB" transform="translate(77.750000, 20.577804) scale(-1, 1) translate(-77.750000, -20.577804) "></path>
+                <polygon id="矩形" fill="#1C1C1C" points="5.5067062e-14 17.077804 3.69026867 21.077804 5.5067062e-14 25.077804"></polygon>
+                <polygon id="矩形备份-8" fill="#1B1B1B" transform="translate(102.799138, 21.077804) scale(-1, 1) translate(-102.799138, -21.077804) " points="100.954003 17.077804 104.644272 21.077804 100.954003 25.077804"></polygon>
+                <polygon id="矩形" fill="#CFFFAB" points="49 4.73064018 61 4.73064018 61 36.0851483 49 36.0851483"></polygon>
+                <rect id="矩形" fill="#000000" x="23" y="1.7871318" width="59" height="1"></rect>
+                <rect id="矩形备份-9" fill="#000000" x="23" y="38.077804" width="59" height="1"></rect>
+                <line x1="1.51926743" y1="0" x2="6.5" y2="5.577804" id="路径-2" stroke="#000000" stroke-dasharray="1"></line>
+                <line x1="98.2428398" y1="35.5943214" x2="103.223572" y2="41.1721254" id="路径-2备份" stroke="#000000" stroke-dasharray="1"></line>
+                <line x1="98.2428398" y1="0.594321429" x2="103.223572" y2="6.17212543" id="路径-2备份-2" stroke="#000000" stroke-dasharray="1" transform="translate(100.733206, 3.383223) scale(-1, 1) translate(-100.733206, -3.383223) "></line>
+                <line x1="1.24283976" y1="35.5943214" x2="6.22357233" y2="41.1721254" id="路径-2备份-3" stroke="#000000" stroke-dasharray="1" transform="translate(3.733206, 38.383223) scale(-1, 1) translate(-3.733206, -38.383223) "></line>
+            </g>
+        </g>
+    </g>
+</svg>
